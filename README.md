@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/9b6984f6-f3dc-42bd-85d1-08a5e6e4f6b8
 ---
 ## 🔮 Future Enhancements
 
-I am open to suggestions and plan to continue developing this platform.
+I am open to suggestions and plan to continue developing this Application with new Ideas :).
 
 ---
 
