@@ -88,4 +88,4 @@ I am open to suggestions and plan to continue developing this Application with n
 
 ### 🧑‍💻 Isa Shaikh - [isashaikh2005@gmail.com](mailto:isashaikh2005@gmail.com)
 
-### 🔗Project Link: [Swing-Based-Todo-App]([https://github.com/IsaShaikh/TodoSwingApp](https://github.com/IsaShaikh/TodoList-java-swing))
+### 🔗Project Link: [Swing-Based-Todo-App](https://github.com/IsaShaikh/TodoList-java-swing)
