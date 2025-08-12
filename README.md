@@ -72,7 +72,9 @@ src/
 ## 📸 Example Output
 Below is an example of Swing todo Application (With All features Covered):
 
-[Watch Demo](images/output.mp4)
+
+https://github.com/user-attachments/assets/9b6984f6-f3dc-42bd-85d1-08a5e6e4f6b8
+
 
 
 ---
